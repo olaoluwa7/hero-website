@@ -1,0 +1,61 @@
+
+Body{
+    background-color: gray;	
+    text-align: center;
+}
+    
+#title {
+     color: #003366;
+}
+
+.subtitle{
+    color: blue;
+    font-size: 30px;
+}
+
+#enter-hero-input{
+	width: 60%;
+	height: 40px;
+    border-radius: 10px;
+    border: 1px solid green;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+
+#submit-button{
+	background-color: blue;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 10px;
+    height: 40px;
+    width: 100px;
+}
+
+
+#power-stat-table{
+	width: 60%;
+    font-size: 30px;
+    margin-left: 20%;
+    border: 2px solid blue;
+    text-align: ;
+
+
+
+tx-td}  
+	border: 2px solid blue;
+}
+
+#power-stats{
+	background-color: green;
+	color: yellowgreen;
+}
+
+
+#place-of-birth{
+    font-size: 20px;
+	color: pink;
+	height: 40px;
+	width: 60px;
+	margin-right: 2px solid pink;
+}
